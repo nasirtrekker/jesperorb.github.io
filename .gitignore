@@ -1,0 +1,9 @@
+node_modules
+CONTRIBUTING.md
+bower.json
+README.md
+rev.sh
+template-revealjs.html
+LICENSE
+Gruntfile.js
+test
